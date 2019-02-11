@@ -1,4 +1,4 @@
-# Combined Numbers [![Build Status](https://www.travis-ci.org/LordLukin/CombinedNumber.svg?branch=master)](https://www.travis-ci.org/LordLukin/CombinedNumber)
+# Combined Numbers [![Build Status](https://www.travis-ci.org/gitmajo/CombinedNumber.svg?branch=master)](https://www.travis-ci.org/LordLukin/CombinedNumber)
 
 Write a function accepting a list of non negative integers, 
 and returning their largest possible combined number
